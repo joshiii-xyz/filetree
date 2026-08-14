@@ -1,6 +1,18 @@
-# filetree
+<p align="center">
+  <img src="assets/logo.png" alt="filetree logo" width="160" />
+</p>
 
-[![CI](https://github.com/joshiii-xyz/filetree/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/joshiii-xyz/filetree/actions/workflows/ci.yml)
+<h1 align="center">filetree</h1>
+
+<p align="center">
+  <a href="https://github.com/joshiii-xyz/filetree/actions/workflows/ci.yml">
+    <img src="https://github.com/joshiii-xyz/filetree/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI status" />
+  </a>
+</p>
+
+<p align="center">
+  A fast, readable, cross-platform directory tree CLI.
+</p>
 
 `filetree` is a fast, readable, cross-platform CLI for showing a filesystem path as a tree. It is intentionally small, read-only, and useful out of the box for developer repositories.
 
